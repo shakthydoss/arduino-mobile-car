@@ -7,6 +7,6 @@
 **Downloads**
 - Arduino IDE http://arduino.cc/en/main/software 
 - Android ADT http://developer.android.com/sdk/index.html 
-- Arduino side Code https://github.com/stgishare/arduino-bluetooth-car/ 
-- Android Bluetooth Code. https://github.com/stgishare/arduino-bluetooth-car/ 
+- Arduino side Code https://github.com/shakthydoss/arduino-mobile-car 
+- Android Bluetooth Code. https://github.com/shakthydoss/arduino-mobile-car
 
